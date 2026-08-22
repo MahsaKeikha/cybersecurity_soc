@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "F45 Cybersecurity SOC"
+message: "If you use this defensive reference implementation, please cite this repository."
+type: software
+authors:
+  - family-names: Keikha
+    given-names: Mahsa
+repository-code: "https://github.com/MahsaKeikha/cybersecurity_soc"
+license: MIT
+version: 1.0.0
